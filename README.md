@@ -5,10 +5,10 @@ Este sistema possibilita o cadastro de pets e seus Respectivos donos, através d
 
 ## Setup do Projeto
 
-Angular CLI: 10.2.0
-Node: 14.13.1
-Angular: 10.2.1
-Po UI: 3.10.0
+* Angular CLI: 10.2.0
+* Node: 14.13.1
+* Angular: 10.2.1
+* Po UI: 3.10.0
 
 ## Execução do Projeto
 
